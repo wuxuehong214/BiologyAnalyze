@@ -1,0 +1,1 @@
+将将reads随机分成100bp的短reads
